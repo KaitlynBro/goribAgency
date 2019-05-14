@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/goribagency/static/css/main.2cce8147.chunk.css",
-    "main.js": "/goribagency/static/js/main.5ee57c9c.chunk.js",
-    "main.js.map": "/goribagency/static/js/main.5ee57c9c.chunk.js.map",
+    "main.js": "/goribagency/static/js/main.1a8caaf6.chunk.js",
+    "main.js.map": "/goribagency/static/js/main.1a8caaf6.chunk.js.map",
     "runtime~main.js": "/goribagency/static/js/runtime~main.3d959bcf.js",
     "runtime~main.js.map": "/goribagency/static/js/runtime~main.3d959bcf.js.map",
     "static/js/2.b41502e9.chunk.js": "/goribagency/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/goribagency/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/goribagency/index.html",
-    "precache-manifest.633e6a5be720a3e68e7648bde00bd259.js": "/goribagency/precache-manifest.633e6a5be720a3e68e7648bde00bd259.js",
+    "precache-manifest.6d4e342a0bec9c5408c2c15296d1a386.js": "/goribagency/precache-manifest.6d4e342a0bec9c5408c2c15296d1a386.js",
     "service-worker.js": "/goribagency/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/goribagency/static/css/main.2cce8147.chunk.css.map",
     "static/media/logo.svg": "/goribagency/static/media/logo.5d5d9eef.svg"
