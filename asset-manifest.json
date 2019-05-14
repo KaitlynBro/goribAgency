@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/goribagency/static/css/main.2cce8147.chunk.css",
-    "main.js": "/goribagency/static/js/main.1a8caaf6.chunk.js",
-    "main.js.map": "/goribagency/static/js/main.1a8caaf6.chunk.js.map",
+    "main.css": "/goribagency/static/css/main.2115d268.chunk.css",
+    "main.js": "/goribagency/static/js/main.c4c77e4e.chunk.js",
+    "main.js.map": "/goribagency/static/js/main.c4c77e4e.chunk.js.map",
     "runtime~main.js": "/goribagency/static/js/runtime~main.3d959bcf.js",
     "runtime~main.js.map": "/goribagency/static/js/runtime~main.3d959bcf.js.map",
-    "static/js/2.b41502e9.chunk.js": "/goribagency/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/goribagency/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.42a058de.chunk.js": "/goribagency/static/js/2.42a058de.chunk.js",
+    "static/js/2.42a058de.chunk.js.map": "/goribagency/static/js/2.42a058de.chunk.js.map",
     "index.html": "/goribagency/index.html",
-    "precache-manifest.6d4e342a0bec9c5408c2c15296d1a386.js": "/goribagency/precache-manifest.6d4e342a0bec9c5408c2c15296d1a386.js",
+    "precache-manifest.871cd57a39ddb56a9d8012dc3e491aa5.js": "/goribagency/precache-manifest.871cd57a39ddb56a9d8012dc3e491aa5.js",
     "service-worker.js": "/goribagency/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/goribagency/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/goribagency/static/media/logo.5d5d9eef.svg"
+    "static/css/main.2115d268.chunk.css.map": "/goribagency/static/css/main.2115d268.chunk.css.map",
+    "static/media/causeOne.jpg": "/goribagency/static/media/causeOne.9fd067cf.jpg",
+    "static/media/causeThree.jpg": "/goribagency/static/media/causeThree.7f5b5ea5.jpg",
+    "static/media/causeTwo.jpg": "/goribagency/static/media/causeTwo.8881d31d.jpg",
+    "static/media/causes-bg.png": "/goribagency/static/media/causes-bg.ba889e8f.png",
+    "static/media/donate-background.png": "/goribagency/static/media/donate-background.4f098c4b.png",
+    "static/media/events.png": "/goribagency/static/media/events.79c35359.png",
+    "static/media/hero-bg.png": "/goribagency/static/media/hero-bg.f5884c24.png",
+    "static/media/info-heart.png": "/goribagency/static/media/info-heart.d232572c.png",
+    "static/media/info-world.png": "/goribagency/static/media/info-world.6e4e6af7.png",
+    "static/media/services-bg.png": "/goribagency/static/media/services-bg.51f52965.png",
+    "static/media/stats-bg.png": "/goribagency/static/media/stats-bg.90d95295.png",
+    "static/media/worldVision.png": "/goribagency/static/media/worldVision.c069603b.png"
   }
 }
